@@ -1,6 +1,4 @@
-### About Me 
-
-##
+# About Me 
 
 I'm **Flávio Nassim Bittar Filho**, I'm from 1997 and born in Goiânia-GO. I'm a technology lover and I'm currently studying some web development languages. I hope to become a full-stack developer.
 
