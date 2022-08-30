@@ -1,6 +1,8 @@
-# About Me 
+# Hi, I'm Flávio 👋
 
-I'm **Flávio Nassim Bittar Filho**, I'm living in Brasília-DF in Brazil. I always try to improve my programming skills. Because I believe there's always something to improve.
+👽 I'm living in Brasília-DF in Brazil. I always try to improve my programming skills.<br>
+👾 I'm work to become a full-stack developer.<br>
+🤖 but I starting my journey now !
 
 <div align="center">
   <a href="https://github.com/Flavio-Nassim-Bittar-Filho">
