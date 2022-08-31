@@ -1,8 +1,8 @@
 # Hi, I'm Flávio 👋
 
 👽 I'm living in Brasília-DF in Brazil. I always try to improve my programming skills.<br>
-👾 I'm work to become a full-stack developer.<br>
-🤖 but I starting my journey now !
+👾 I'm work become a full-stack developer.<br>
+🤖 I'm starting my journey now !
 
 <div align="center">
   <a href="https://github.com/Flavio-Nassim-Bittar-Filho">
