@@ -1,10 +1,12 @@
 # Hi, I'm Flávio 👋
 
-👽 I'm living in Brasília-DF in Brazil. I always try to improve my programming skills.<br>
-👾 I'm working to become a full-stack developer.<br>
-🤖 I'm starting my journey now !
+🇺🇲:<br>
+I'm a developer. Currently I do personal projects for my family, college and curses.
+<br><br>
+🇧🇷:<br>
+Eu sou desenvolvedor. Atualmente faço projetos pessoais para familiares, faculdade e cursos.
 
-<div align="center">
+<div aling="center">
   <a href="https://github.com/Flavio-Nassim-Bittar-Filho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flavio-Nassim-Bittar-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
@@ -12,7 +14,10 @@
 
 ##
 
-### I am currently studying these technologies:
+  ### 🇺🇲:<br>
+  ### I am currently studying these technologies:<br><br>
+  ### 🇧🇷:<br>
+  ### Atualmente estou estudando essas tecnologias:<br>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Flavio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -21,12 +26,14 @@
   CSS
   <img align="center" alt="Flavio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   JavaScript
+  <!--
   <img align="center" alt="Flavio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   React  
   <img align="center" alt="Flavio-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   Node
   <img align="center" alt="Flavio-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   MongoDb
+  -->
   <img align="center" alt="Flavio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   Git
   <img align="center" alt="Flavio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
