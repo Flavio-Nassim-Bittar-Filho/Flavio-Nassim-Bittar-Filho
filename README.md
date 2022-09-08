@@ -1,10 +1,8 @@
-# Hi, I'm Flávio 👋
+# Hi, I'm Flávio | Olá, eu me chamo Flávio 👋
 
-🇺🇲:<br>
-I'm a developer. Currently I do personal projects for my family, college and curses.
-<br><br>
-🇧🇷:<br>
-Eu sou desenvolvedor. Atualmente faço projetos pessoais para familiares, faculdade e cursos.
+🇺🇲:I'm a developer. Currently I do personal projects for my family, college and curses.
+<br>
+🇧🇷:Eu sou um desenvolvedor. Atualmente faço projetos pessoais para familiares, faculdade e cursos.
 
 <div aling="center">
   <a href="https://github.com/Flavio-Nassim-Bittar-Filho">
@@ -14,16 +12,13 @@ Eu sou desenvolvedor. Atualmente faço projetos pessoais para familiares, faculd
 
 ##
 
-  ### 🇺🇲:<br>
-  ### I am currently studying these technologies:<br><br>
-  ### 🇧🇷:<br>
-  ### Atualmente estou estudando essas tecnologias:<br>
+  ### 🇺🇲: I am currently using these technologies | 🇧🇷: Atualmente estou utilizando essas tecnologias:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Flavio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  HTML 
+  HTML5 
   <img align="center" alt="Flavio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  CSS
+  CSS3
   <img align="center" alt="Flavio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   JavaScript
   <!--
