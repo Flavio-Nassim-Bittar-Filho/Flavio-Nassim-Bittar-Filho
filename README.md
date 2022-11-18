@@ -20,10 +20,10 @@ Eu sou um desenvolvedor web autônomo, gosto de desenvolver da maneira mais Hard
 <div aling="center">
   <a href="https://github.com/Flavio-Nassim-Bittar-Filho">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Flavio-Nassim-Bittar-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## 👥 Connect With Me
+## 👥 Entre em contato
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/Fl%C3%A1vio%20Nassim%20Bittar%20Filho#9269"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
