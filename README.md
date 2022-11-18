@@ -18,7 +18,6 @@ Eu sou um desenvolvedor web autônomo, gosto de desenvolver da maneira mais Hard
 ## 📊 Github Status
 
 <div aling="center">
-  <a href="https://github.com/Flavio-Nassim-Bittar-Filho">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Flavio-Nassim-Bittar-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
 </div>
