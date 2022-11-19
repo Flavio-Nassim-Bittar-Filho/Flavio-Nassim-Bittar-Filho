@@ -28,7 +28,7 @@
 ## 👥 Entre em contato
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/Fl%C3%A1vio%20Nassim%20Bittar%20Filho#9269"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<!-- <a href="https://twitter.com/Fl%C3%A1vio%20Nassim%20Bittar%20Filho#9269"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a> -->
 </p>
 
 
