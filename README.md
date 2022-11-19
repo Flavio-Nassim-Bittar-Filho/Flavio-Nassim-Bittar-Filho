@@ -1,9 +1,12 @@
-
+<!-- <h3>Olá, seja muito bem vindo ao meu GitHub</h3> -->
 
 <img width="100%" src="./github-header-image.png" alt="my banner">
 
-Eu sou um desenvolvedor web autônomo, gosto de desenvolver da maneira mais HardCode possível, evitando o máximo de ferramentas prontas. Pois assim sinto que tenho um domínio maior sobre a tecnologia.
-
+<p>👨‍💻 - Sou desenvolvedor autônomo</p>
+<p>🏫 - Formado em Ciências da Computação</p>
+<p>🏠 - Resido em Brasília (DF)</p>
+<p>🍕 - Minha comida favorita é pizza / hambúrguer</p>
+<p>🎲 - Sou apaixonado por games de todos os tipos</p> 
 
 ## 💻 Habilidades
 <p>
