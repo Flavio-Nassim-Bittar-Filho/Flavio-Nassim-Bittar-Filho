@@ -47,6 +47,6 @@
   <img src="https://avatars.githubusercontent.com/u/111374208?v=4" width="150px" alt="Author Image">
   </a>
 
-<a href="https://www.linkedin.com/in/flávio-nassim-bittar-filho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/flavio-nassim-bittar-filho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
 </div>
