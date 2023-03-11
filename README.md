@@ -35,7 +35,7 @@
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Flavio-Nassim-Bittar-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 &#xa0;
@@ -47,6 +47,6 @@
   <img src="https://avatars.githubusercontent.com/u/111374208?v=4" width="150px" alt="Author Image">
   </a>
 
-<a href="https://www.linkedin.com/in/flávio-nassim-bittar-filho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/flavio-nassim-bittar-filho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
 </div>
