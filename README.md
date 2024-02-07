@@ -17,16 +17,16 @@ Desempenho a função de planejamento e analise de dados, gerando soluções de 
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</div>
+</div><br>
 
-&#xa0;
+<!-- &#xa0;
 
-<!-- ## 📊 Github Status
+## 📊 Github Status -->
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Flavio-Nassim-Bittar-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Nassim-Bittar-Filho&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+</div> 
   
 ## 👥 Contato
 
