@@ -1,5 +1,5 @@
 <!-- <img width="100%" src="./github-header-image.png" alt="my banner"> -->
-## Sobre Mim
+## 🔍 Sobre Mim
 
 <p>Sou formado em ciência da computação pelo centro universitário de Brasília (CEUB), atuando no mercado como analista de dados.
 Desempenho a função de planejamento e analise de dados, gerando soluções de inteligência de negócios (BI) para apoiar na tomada de decisão e melhoria de processos, através do uso eficiente de tecnologia e dados.</p>
