@@ -1,7 +1,6 @@
-<!-- <img width="100%" src="./github-header-image.png" alt="my banner"> -->
 ## 🔍 Sobre Mim
 
-<img width="100%" src="./github-header-image.png.jpg" alt="my banner">
+<img width="100%" src="./github-header-image.jpg" alt="my banner">
 <p>Sou formado em ciência da computação pelo centro universitário de Brasília (CEUB), atuando no mercado como analista de dados.
 Desempenho a função de planejamento e analise de dados, gerando soluções de inteligência de negócios (BI) para apoiar na tomada de decisão e melhoria de processos, através do uso eficiente de tecnologia e dados.</p>
 
@@ -36,9 +35,8 @@ Desempenho a função de planejamento e analise de dados, gerando soluções de 
     <img src="https://avatars.githubusercontent.com/u/111374208?v=4" width="150px" alt="Author Image">
   </a>
 
-<a href="https://www.linkedin.com/in/flavionassimbittarfilho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-
-<a href="mailto:flavionassimbittarfilho@gmail.com"><img src="https://img.shields.io/badge/-flavionassimbittarfilho@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
-<!-- <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px"></a> -->
+  <a href="https://www.linkedin.com/in/flavionassimbittarfilho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+  
+  <a href="mailto:flavionassimbittarfilho@gmail.com"><img src="https://img.shields.io/badge/-flavionassimbittarfilho@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
 
 </div>
