@@ -37,4 +37,7 @@ Desempenho a função de planejamento e analise de dados, gerando soluções de 
 
 <a href="https://www.linkedin.com/in/flavionassimbittarfilho"><img src="https://img.shields.io/badge/-Flávio%20Nassim%20Bittar%20Filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-nassim-bittar-filho/" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
+<a href="mailto:flavionassimbittarfilho@gmail.com"><img src="https://img.shields.io/badge/-flavionassimbittarfilho@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
+<!-- <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px"></a> -->
+
 </div>
